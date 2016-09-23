@@ -29,5 +29,8 @@ public class SpriteAccessor implements TweenAccessor<Sprite>{
 			assert false;
 		}
 	}
+	
+	//CODIGO TOMADO DE
+	//https://goo.gl/vSNAIb
 
 }
